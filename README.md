@@ -7,9 +7,8 @@ This little project is used to give a Spock bobble head more samples to play, a 
 
 Description:
 
-    The code uses PWM to output a wav sample to a speaker (or head phones). Using the Petit FAT file system (see credits),
-    the program will play a wave file stored on a SD. The SPI mode on the micro controller is used to read the data off the SD
-    card.
+    The code uses PWM to output a wav sample to a speaker (or head phones). Using the Petit FAT file system
+    the program will a play wave file stored on an SD card via SPI mode.
     
 Limitations:
     - The SD card is formated as FAT32.

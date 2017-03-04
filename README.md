@@ -11,11 +11,13 @@ Description:
     the program will a play wave file stored on an SD card via SPI mode.
     
 Limitations:
+
     - The SD card is formated as FAT32.
     - The code only scans for .wav files at the root directory. 
     - The files must a mono 11025KHz wav file.
 
 Parts:
+
     MSP430g2553 (obivouisly)
     MicroSD card holder
     MicroSD card (any size I guess)

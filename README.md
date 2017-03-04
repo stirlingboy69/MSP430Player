@@ -25,11 +25,13 @@ Parts:
 
 CREDIT:
 
- - Most of this code (if not all) was heavily inspired by the giants at 43oh.com
-   http://forum.43oh.com/topic/1427-petitefs-fatfs-sdcard-usci-code/
-   Also, the great 43oh.com code vault was in invaluable tool that got this project going.
+   - Most of this code (if not all) was heavily inspired by the giants at 43oh.com
+ 
+    ( see http://forum.43oh.com/topic/1427-petitefs-fatfs-sdcard-usci-code )
+   
+   - Also, the great 43oh.com code vault was in invaluable tool that got this project going.
 
- - elm-chan's Petit FAT file system: http://elm-chan.org/fsw/ff/00index_p.html
+   - elm-chan's Petit FAT file system: http://elm-chan.org/fsw/ff/00index_p.html
 
 
 

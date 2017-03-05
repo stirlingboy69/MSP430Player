@@ -89,7 +89,7 @@
 //volatile unsigned char gNextSample;
 
 //comment this out if want to here the voice samples sequencil in order 
-#define SPOCK_IN_ORDER
+//#define SPOCK_IN_ORDER
 
 #define SAMPLE_BUFFER_SIZE 128
 
